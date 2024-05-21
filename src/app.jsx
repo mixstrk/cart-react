@@ -1,11 +1,11 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Cart from "./components/cartPage/cart-copy.js"
-import OrderPage from "./components/orderPage/orderPage.js";
-import ConfirmationPage from "./components/confirmationPage/confirmationPage.js";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Cart from "./components/cartPage/cart-copy";
+import OrderPage from "./components/orderPage/orderPage";
+import ConfirmationPage from "./components/confirmationPage/confirmationPage";
 
-export default class extends React.Component{
-  render(){
+export default class extends React.Component {
+  render() {
     return (
       <BrowserRouter>
         <div>
