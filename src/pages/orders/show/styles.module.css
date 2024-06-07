@@ -1,0 +1,32 @@
+.main {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.h2 {
+  text-align: center;
+}
+
+.total {
+  text-align: right;
+}
+
+.addToCart {
+  width: 150px;
+  text-align: center;
+}
+
+.cartBtn {
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.divCard {
+  width: 18rem;
+  margin-bottom: 15px;
+}
+
+.addToCartBtn {
+  margin-right: 5px;
+}
